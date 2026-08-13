@@ -639,7 +639,7 @@
     "src": "tabletop_hammer/run_02/mean.mp4",
     "poster": "tabletop_hammer/run_02/mean.jpg",
     "outcome": "failure",
-    "caption": ""
+    "caption": "",
     "collisionWithObstacle": "NA",
     "collisionWithTarget": "yes (unsafe collision failure)",
     "graspSuccess": "NA"
