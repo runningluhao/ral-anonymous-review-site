@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow,noarchive">
+  <meta name="description" content="Supplementary real-world experiment videos for anonymous peer review.">
+  <title>Real-World Experiments · Manipulation Planning under Uncertainty</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 64 64%22><rect width=%2264%22 height=%2264%22 rx=%2214%22 fill=%22%233157a4%22/><path d=%22M22 18h20v28H22z%22 fill=%22white%22/><path d=%22m29 26 10 6-10 6z%22 fill=%22%233157a4%22/></svg>">
+  <link rel="stylesheet" href="./assets/site.css">
+  <script defer src="./assets/gallery.js"></script>
+</head>
+<body>
+  <main class="page-shell">
+    <header class="hero">
+      <p class="kicker">Anonymous review supplementary material</p>
+      <h1>Manipulation Planning under Uncertainty</h1>
+      <p class="description">
+        This page provides supplementary videos of the paper's real-world robotic
+        experiments. The videos demonstrate manipulation planning under scene
+        uncertainty and are provided solely for evaluation during anonymous review.
+      </p>
+    </header>
+
+    <section class="gallery" aria-labelledby="gallery-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Experimental evidence</p>
+          <h2 id="gallery-title">Real-World Experiments</h2>
+        </div>
+        <p>Filter the complete gallery by scenario, run, environment, or outcome.</p>
+      </div>
+
+      <div class="filters" aria-label="Video gallery filters">
+        <div class="filter-field">
+          <label for="scenario-filter">Scenario</label>
+          <select id="scenario-filter"></select>
+        </div>
+        <div class="filter-field">
+          <label for="run-filter">Run</label>
+          <select id="run-filter"></select>
+        </div>
+        <div class="filter-field">
+          <label for="environment-filter">Environment</label>
+          <select id="environment-filter"></select>
+        </div>
+        <div class="filter-field">
+          <label for="outcome-filter">Outcome</label>
+          <select id="outcome-filter"></select>
+        </div>
+      </div>
+
+      <div id="results-summary" class="results-summary" aria-live="polite"></div>
+      <div id="video-grid" class="video-grid"></div>
+      <button id="load-more" class="load-more" type="button" hidden>Load more videos</button>
+    </section>
+
+    <footer>Anonymous project website prepared for double-anonymous review.</footer>
+  </main>
+</body>
+</html>
