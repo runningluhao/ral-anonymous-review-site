@@ -8,8 +8,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "shelf/run_01/mean.mp4",
     "poster": "shelf/run_01/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "yes (unsafe collision failure)",
+    "collisionWithTarget": "NA",
+    "graspSuccess": "NA"
   },
   {
     "id": "shelf-run-01-uncertain",
@@ -20,8 +23,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "shelf/run_01/uncertain.mp4",
     "poster": "shelf/run_01/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "shelf-run-02-mean",
@@ -32,8 +38,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "shelf/run_02/mean.mp4",
     "poster": "shelf/run_02/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "yes (unsafe collision failure)",
+    "collisionWithTarget": "NA",
+    "graspSuccess": "NA"
   },
   {
     "id": "shelf-run-02-uncertain",
@@ -44,8 +53,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "shelf/run_02/uncertain.mp4",
     "poster": "shelf/run_02/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes",
+    "graspSuccess": "no (grasp miss failure)"
   },
   {
     "id": "shelf-run-03-mean",
@@ -56,8 +68,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "shelf/run_03/mean.mp4",
     "poster": "shelf/run_03/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "yes (unsafe collision failure)",
+    "collisionWithTarget": "NA",
+    "graspSuccess": "NA"
   },
   {
     "id": "shelf-run-03-uncertain",
@@ -68,8 +83,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "shelf/run_03/uncertain.mp4",
     "poster": "shelf/run_03/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "shelf-run-04-mean",
@@ -80,8 +98,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "shelf/run_04/mean.mp4",
     "poster": "shelf/run_04/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "shelf-run-04-uncertain",
@@ -92,8 +113,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "shelf/run_04/uncertain.mp4",
     "poster": "shelf/run_04/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "shelf-run-05-mean",
@@ -104,8 +128,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "shelf/run_05/mean.mp4",
     "poster": "shelf/run_05/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "shelf-run-05-uncertain",
@@ -116,8 +143,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "shelf/run_05/uncertain.mp4",
     "poster": "shelf/run_05/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "shelf-run-06-mean",
@@ -128,8 +158,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "shelf/run_06/mean.mp4",
     "poster": "shelf/run_06/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "yes (unsafe collision failure)",
+    "collisionWithTarget": "NA",
+    "graspSuccess": "NA"
   },
   {
     "id": "shelf-run-06-uncertain",
@@ -140,8 +173,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "shelf/run_06/uncertain.mp4",
     "poster": "shelf/run_06/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "yes",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "shelf-run-07-mean",
@@ -152,8 +188,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "shelf/run_07/mean.mp4",
     "poster": "shelf/run_07/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes (blocked-access failure)",
+    "graspSuccess": "no"
   },
   {
     "id": "shelf-run-07-uncertain",
@@ -164,8 +203,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "shelf/run_07/uncertain.mp4",
     "poster": "shelf/run_07/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes (blocked-access failure)",
+    "graspSuccess": "no"
   },
   {
     "id": "shelf-run-08-mean",
@@ -176,8 +218,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "shelf/run_08/mean.mp4",
     "poster": "shelf/run_08/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes",
+    "graspSuccess": "yes"
   },
   {
     "id": "shelf-run-08-uncertain",
@@ -188,8 +233,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "shelf/run_08/uncertain.mp4",
     "poster": "shelf/run_08/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes",
+    "graspSuccess": "yes"
   },
   {
     "id": "shelf-run-09-mean",
@@ -200,8 +248,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "shelf/run_09/mean.mp4",
     "poster": "shelf/run_09/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "yes (unsafe collision failure)",
+    "collisionWithTarget": "NA",
+    "graspSuccess": "NA"
   },
   {
     "id": "shelf-run-09-uncertain",
@@ -212,8 +263,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "shelf/run_09/uncertain.mp4",
     "poster": "shelf/run_09/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes",
+    "graspSuccess": "yes"
   },
   {
     "id": "shelf-run-10-mean",
@@ -224,8 +278,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "shelf/run_10/mean.mp4",
     "poster": "shelf/run_10/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "yes (unsafe collision failure)",
+    "collisionWithTarget": "NA",
+    "graspSuccess": "NA"
   },
   {
     "id": "shelf-run-10-uncertain",
@@ -236,8 +293,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "shelf/run_10/uncertain.mp4",
     "poster": "shelf/run_10/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "yes",
+    "collisionWithTarget": "yes",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-01-mean",
@@ -248,8 +308,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_can/run_01/mean.mp4",
     "poster": "tabletop_can/run_01/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-01-uncertain",
@@ -260,8 +323,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_can/run_01/uncertain.mp4",
     "poster": "tabletop_can/run_01/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-02-mean",
@@ -272,8 +338,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_can/run_02/mean.mp4",
     "poster": "tabletop_can/run_02/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-02-uncertain",
@@ -284,8 +353,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_can/run_02/uncertain.mp4",
     "poster": "tabletop_can/run_02/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-03-mean",
@@ -296,8 +368,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_can/run_03/mean.mp4",
     "poster": "tabletop_can/run_03/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-03-uncertain",
@@ -308,8 +383,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_can/run_03/uncertain.mp4",
     "poster": "tabletop_can/run_03/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-04-mean",
@@ -320,8 +398,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_can/run_04/mean.mp4",
     "poster": "tabletop_can/run_04/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-04-uncertain",
@@ -332,8 +413,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_can/run_04/uncertain.mp4",
     "poster": "tabletop_can/run_04/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-05-mean",
@@ -344,8 +428,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_can/run_05/mean.mp4",
     "poster": "tabletop_can/run_05/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-05-uncertain",
@@ -356,8 +443,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_can/run_05/uncertain.mp4",
     "poster": "tabletop_can/run_05/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-06-mean",
@@ -368,8 +458,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_can/run_06/mean.mp4",
     "poster": "tabletop_can/run_06/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "yes (unsafe collision failure)",
+    "collisionWithTarget": "NA",
+    "graspSuccess": "NA"
   },
   {
     "id": "tabletop_can-run-06-uncertain",
@@ -380,8 +473,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_can/run_06/uncertain.mp4",
     "poster": "tabletop_can/run_06/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-07-mean",
@@ -392,8 +488,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_can/run_07/mean.mp4",
     "poster": "tabletop_can/run_07/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "yes",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-07-uncertain",
@@ -404,8 +503,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_can/run_07/uncertain.mp4",
     "poster": "tabletop_can/run_07/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "yes",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-08-mean",
@@ -416,8 +518,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_can/run_08/mean.mp4",
     "poster": "tabletop_can/run_08/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-08-uncertain",
@@ -428,8 +533,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_can/run_08/uncertain.mp4",
     "poster": "tabletop_can/run_08/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-09-mean",
@@ -440,8 +548,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_can/run_09/mean.mp4",
     "poster": "tabletop_can/run_09/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "yes (unsafe collision failure)",
+    "collisionWithTarget": "NA",
+    "graspSuccess": "NA"
   },
   {
     "id": "tabletop_can-run-09-uncertain",
@@ -452,8 +563,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_can/run_09/uncertain.mp4",
     "poster": "tabletop_can/run_09/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_can-run-10-mean",
@@ -464,8 +578,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_can/run_10/mean.mp4",
     "poster": "tabletop_can/run_10/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "yes (unsafe collision failure)",
+    "collisionWithTarget": "NA",
+    "graspSuccess": "NA"
   },
   {
     "id": "tabletop_can-run-10-uncertain",
@@ -476,8 +593,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_can/run_10/uncertain.mp4",
     "poster": "tabletop_can/run_10/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_hammer-run-01-mean",
@@ -488,8 +608,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_hammer/run_01/mean.mp4",
     "poster": "tabletop_hammer/run_01/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_hammer-run-01-uncertain",
@@ -500,8 +623,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_hammer/run_01/uncertain.mp4",
     "poster": "tabletop_hammer/run_01/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_hammer-run-02-mean",
@@ -512,8 +638,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_hammer/run_02/mean.mp4",
     "poster": "tabletop_hammer/run_02/mean.jpg",
-    "outcome": "unlabeled",
+    "outcome": "failure",
     "caption": ""
+    "collisionWithObstacle": "NA",
+    "collisionWithTarget": "yes (unsafe collision failure)",
+    "graspSuccess": "NA"
   },
   {
     "id": "tabletop_hammer-run-02-uncertain",
@@ -524,8 +653,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_hammer/run_02/uncertain.mp4",
     "poster": "tabletop_hammer/run_02/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_hammer-run-03-mean",
@@ -536,8 +668,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_hammer/run_03/mean.mp4",
     "poster": "tabletop_hammer/run_03/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes (unsafe collision failure)",
+    "graspSuccess": "NA"
   },
   {
     "id": "tabletop_hammer-run-03-uncertain",
@@ -548,8 +683,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_hammer/run_03/uncertain.mp4",
     "poster": "tabletop_hammer/run_03/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_hammer-run-04-mean",
@@ -560,8 +698,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_hammer/run_04/mean.mp4",
     "poster": "tabletop_hammer/run_04/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "no (slip failure)"
   },
   {
     "id": "tabletop_hammer-run-04-uncertain",
@@ -572,8 +713,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_hammer/run_04/uncertain.mp4",
     "poster": "tabletop_hammer/run_04/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_hammer-run-05-mean",
@@ -584,8 +728,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_hammer/run_05/mean.mp4",
     "poster": "tabletop_hammer/run_05/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_hammer-run-05-uncertain",
@@ -596,8 +743,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_hammer/run_05/uncertain.mp4",
     "poster": "tabletop_hammer/run_05/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_hammer-run-06-accurate",
@@ -608,8 +758,11 @@
     "environmentLabel": "Deterministic Environment (Accurate)",
     "src": "tabletop_hammer/run_06/accurate.mp4",
     "poster": "tabletop_hammer/run_06/accurate.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_hammer-run-07-accurate",
@@ -620,8 +773,11 @@
     "environmentLabel": "Deterministic Environment (Accurate)",
     "src": "tabletop_hammer/run_07/accurate.mp4",
     "poster": "tabletop_hammer/run_07/accurate.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_hammer-run-08-accurate",
@@ -632,8 +788,11 @@
     "environmentLabel": "Deterministic Environment (Accurate)",
     "src": "tabletop_hammer/run_08/accurate.mp4",
     "poster": "tabletop_hammer/run_08/accurate.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_hammer-run-09-accurate",
@@ -644,8 +803,11 @@
     "environmentLabel": "Deterministic Environment (Accurate)",
     "src": "tabletop_hammer/run_09/accurate.mp4",
     "poster": "tabletop_hammer/run_09/accurate.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_hammer-run-10-accurate",
@@ -656,8 +818,11 @@
     "environmentLabel": "Deterministic Environment (Accurate)",
     "src": "tabletop_hammer/run_10/accurate.mp4",
     "poster": "tabletop_hammer/run_10/accurate.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-01-mean",
@@ -668,8 +833,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_spam/run_01/mean.mp4",
     "poster": "tabletop_spam/run_01/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-01-uncertain",
@@ -680,8 +848,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_spam/run_01/uncertain.mp4",
     "poster": "tabletop_spam/run_01/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-02-mean",
@@ -692,8 +863,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_spam/run_02/mean.mp4",
     "poster": "tabletop_spam/run_02/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "no (grasp miss failure)"
   },
   {
     "id": "tabletop_spam-run-02-uncertain",
@@ -704,8 +878,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_spam/run_02/uncertain.mp4",
     "poster": "tabletop_spam/run_02/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-03-mean",
@@ -716,8 +893,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_spam/run_03/mean.mp4",
     "poster": "tabletop_spam/run_03/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-03-uncertain",
@@ -728,8 +908,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_spam/run_03/uncertain.mp4",
     "poster": "tabletop_spam/run_03/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-04-mean",
@@ -740,8 +923,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_spam/run_04/mean.mp4",
     "poster": "tabletop_spam/run_04/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes (unsafe collision failure)",
+    "graspSuccess": "NA"
   },
   {
     "id": "tabletop_spam-run-04-uncertain",
@@ -752,8 +938,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_spam/run_04/uncertain.mp4",
     "poster": "tabletop_spam/run_04/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-05-mean",
@@ -764,8 +953,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_spam/run_05/mean.mp4",
     "poster": "tabletop_spam/run_05/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "no"
   },
   {
     "id": "tabletop_spam-run-05-uncertain",
@@ -776,8 +968,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_spam/run_05/uncertain.mp4",
     "poster": "tabletop_spam/run_05/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-06-mean",
@@ -788,8 +983,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_spam/run_06/mean.mp4",
     "poster": "tabletop_spam/run_06/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "no (grasp miss failure)"
   },
   {
     "id": "tabletop_spam-run-06-uncertain",
@@ -800,8 +998,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_spam/run_06/uncertain.mp4",
     "poster": "tabletop_spam/run_06/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-07-mean",
@@ -812,8 +1013,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_spam/run_07/mean.mp4",
     "poster": "tabletop_spam/run_07/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "yes",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-07-uncertain",
@@ -824,8 +1028,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_spam/run_07/uncertain.mp4",
     "poster": "tabletop_spam/run_07/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "yes",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-08-mean",
@@ -836,8 +1043,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_spam/run_08/mean.mp4",
     "poster": "tabletop_spam/run_08/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "no (grasp miss failure)"
   },
   {
     "id": "tabletop_spam-run-08-uncertain",
@@ -848,8 +1058,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_spam/run_08/uncertain.mp4",
     "poster": "tabletop_spam/run_08/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-09-mean",
@@ -860,8 +1073,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_spam/run_09/mean.mp4",
     "poster": "tabletop_spam/run_09/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "yes (unsafe collision failure)",
+    "graspSuccess": "no"
   },
   {
     "id": "tabletop_spam-run-09-uncertain",
@@ -872,8 +1088,11 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_spam/run_09/uncertain.mp4",
     "poster": "tabletop_spam/run_09/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "yes",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   },
   {
     "id": "tabletop_spam-run-10-mean",
@@ -884,8 +1103,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_spam/run_10/mean.mp4",
     "poster": "tabletop_spam/run_10/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "no  (grasp miss failure)"
   },
   {
     "id": "tabletop_spam-run-10-uncertain",
@@ -896,7 +1118,10 @@
     "environmentLabel": "Uncertain Environment",
     "src": "tabletop_spam/run_10/uncertain.mp4",
     "poster": "tabletop_spam/run_10/uncertain.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "success",
+    "caption": "",
+    "collisionWithObstacle": "no",
+    "collisionWithTarget": "no",
+    "graspSuccess": "yes"
   }
 ]
