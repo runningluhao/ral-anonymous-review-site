@@ -134,11 +134,12 @@
     setupLazyVideos(grid);
   }
 
-  async function init() {
+  function init() {
     try {
-      const response = await fetch("./data/videos.json", { cache: "no-store" });
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      state.videos = await response.json();
+      if (!Array.isArray(window.VIDEO_DATA)) {
+        throw new Error("Video data was not loaded");
+      }
+      state.videos = window.VIDEO_DATA;
       state.filtered = [...state.videos];
       populateFilters();
       $("load-more").addEventListener("click", showMore);

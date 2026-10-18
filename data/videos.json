@@ -638,8 +638,11 @@
     "environmentLabel": "Deterministic Environment (Mean)",
     "src": "tabletop_hammer/run_02/mean.mp4",
     "poster": "tabletop_hammer/run_02/mean.jpg",
-    "outcome": "unlabeled",
-    "caption": ""
+    "outcome": "failure",
+    "caption": "",
+    "collisionWithObstacle": "NA",
+    "collisionWithTarget": "yes (unsafe collision failure)",
+    "graspSuccess": "NA"
   },
   {
     "id": "tabletop_hammer-run-02-uncertain",
